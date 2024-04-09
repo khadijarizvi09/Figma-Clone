@@ -1,5 +1,8 @@
 A minimalistic Figma clone to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and 
 drawing designs (shapes, image upload) on the canvas using fabric.js.
+
+
+
 ⚙️ Tech Stack
 Next.js
 TypeScript
@@ -7,6 +10,10 @@ Liveblocks
 Fabric.js
 Shadcn
 Tailwind CSS
+
+
+
+
 🔋 Features
 👉 Multi Cursors, Cursor Chat, and Reactions: Allows multiple users to collaborate simultaneously by showing individual cursors, enabling real-time chat, and reactions for interactive communication.
 
